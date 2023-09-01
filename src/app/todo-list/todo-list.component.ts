@@ -10,15 +10,15 @@ export class TodoListComponent {
   newTask: string = '';
   tasks: any[] = [
     {
-      title: 'Crear la lista de tareas',
+      title: 'Equide',
       completed: true,
     },
     {
-      title: 'Realizar la estructura HTML',
+      title: 'Valle Grande',
       completed: true,
     },
     {
-      title: 'Desplegar el proyecto en la web',
+      title: 'F',
       completed: false,
     },
   ];
